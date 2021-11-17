@@ -1,0 +1,5 @@
+print("i am Bobate Olusegun")
+print("0----")
+print(" ||||")
+print("*" * 10)
+print("HELLO WORLD")
